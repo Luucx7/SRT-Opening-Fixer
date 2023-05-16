@@ -1,0 +1,20 @@
+{
+  "name": "o-supremo-pau-no-cu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "legenda.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/luxon": "^3.3.0",
+    "@types/node": "^20.1.5",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "luxon": "^3.3.0"
+  }
+}
